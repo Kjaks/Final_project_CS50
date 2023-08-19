@@ -285,7 +285,7 @@ image = Image.open("images/CS50.png")
 # Resize the image to the desired size
 width = 500
 height = 310
-resized_image = image.resize((width, height), Image.ANTIALIAS)
+resized_image = image.resize((width, height))
 
 # Convert the resized image to a tkinter PhotoImage object
 photo = ImageTk.PhotoImage(resized_image)
