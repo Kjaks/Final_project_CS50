@@ -26,7 +26,7 @@ To get started with CS50 Library Manager, follow these steps:
 
 1. Clone the repository or download the source code to your local machine.
 2. Ensure that you have Python 3.x and the required libraries installed (tkinter and SQLite).
-3. Run the `library_manager.py` file using Python.
+3. Run the `app.py` file using Python.
 4. The main window of CS50 Library Manager will open, presenting you with options to add/delete books, manage loans, and show books.
 5. Follow the on-screen instructions to perform the desired actions. Use the intuitive interface to navigate through the features and manage your library efficiently.
 
